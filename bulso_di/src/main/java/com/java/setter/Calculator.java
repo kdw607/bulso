@@ -1,10 +1,10 @@
-package com.java.nospring;
+package com.java.setter;
 
 public class Calculator {
 	
 	private MyCalculator myCalculator;
 	
-	public Calculator(MyCalculator myCalculator) {
+	public void Calculator(MyCalculator myCalculator) {
 		this.myCalculator = myCalculator;
 	}
 

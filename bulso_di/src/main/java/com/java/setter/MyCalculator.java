@@ -1,4 +1,4 @@
-package com.java.nospring;
+package com.java.setter;
 
 public class MyCalculator {
 	

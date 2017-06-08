@@ -1,4 +1,4 @@
-package com.java.nospring;
+package com.java.setter;
 
 import org.springframework.context.support.AbstractApplicationContext;
 import org.springframework.context.support.GenericXmlApplicationContext;
